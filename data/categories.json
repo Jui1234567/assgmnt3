@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "Wathing Movie"
+    },
+    {
+        "id": 2,
+        "category": "Driving"
+    },
+    {
+        "id": 3,
+        "category": "Dancing"
+    },
+    {
+        "id": 4,
+        "category": "Travelling"
+    },
+    {
+        "id": 5,
+        "category": "Depressed"
+    }
+]
